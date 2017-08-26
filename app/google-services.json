@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "542526904250",
+    "firebase_url": "https://ourguide-app.firebaseio.com",
+    "project_id": "ourguide-app",
+    "storage_bucket": "ourguide-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542526904250:android:2ffa4d0c3703e0e9",
+        "android_client_info": {
+          "package_name": "cc.foxtail.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542526904250-ghtf8guj1sguhlsosubtjsfd2l5f0tvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4GUjQo8CqnO_pJckkjpRmjbfqjESPj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
